@@ -1,0 +1,1 @@
+1. adjective relating to or demonstrating ferromagnetism

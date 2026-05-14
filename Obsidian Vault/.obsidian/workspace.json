@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "df8fc5ac934fe565",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad37877cf73fcf93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a7395a2cdb41b8a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c98ae5d6740c177d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce83814a5ab31cf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf869bd7bd8b020b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b02b15e00eea55aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "02f68c485b3c8125",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7a462656d5dbaa34",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bfaa45974b8ad82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8a7236d010ede69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数学建模案例积累以及分析/拟合专项：.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "拟合专项： 的反向链接列表"
+            }
+          },
+          {
+            "id": "8870d8044a015783",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数学建模案例积累以及分析/拟合专项：.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "拟合专项： 的出链列表"
+            }
+          },
+          {
+            "id": "2143fda6ccb3db5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1bfa322af58340ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "课程学习笔记/普通物理/牛顿力学.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "牛顿力学 的大纲"
+            }
+          },
+          {
+            "id": "7b9acf9a1eabca29",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "b88da7a24ce364e7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 577.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "random-note:开始漫游笔记": false,
+      "templater-obsidian:Templater": false,
+      "copilot:Open Copilot Chat": false,
+      "media-extended:Open external media": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b88da7a24ce364e7",
+  "lastOpenFiles": [
+    "课程学习笔记/物理化学/浓度.md",
+    "attachments/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1461484552212505991&skey=@crypt_48b1bdd7_669a44307f34863655ff591f220815e9&mmweb_appid=wx_webfilehelper.png",
+    "attachments/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=1461484552212505991&skey=@crypt_48b1bdd7_669a44307f34863655ff591f220815e9&mmweb_appid=wx_webfilehelper.jfif",
+    "课程学习笔记/物理化学/玻尔兹曼分布.md",
+    "课程学习笔记/物理化学/合金模型.md",
+    "课程学习笔记/物理化学/平动能量.md",
+    "课程学习笔记/物理化学/能量和单分子研究.md",
+    "课程学习笔记/物理化学/量子化.md",
+    "attachments/Pasted image 20260507125126.png",
+    "copilot/copilot-conversations/对于合金模型，请问彭笑刚是如何用统计热力学去描述这个合@20260507_110906.md",
+    "copilot/copilot-conversations/继续我们的对话，告诉我latex里面数学的极限符号要怎么打？@20260319_113040.md",
+    "copilot/copilot-conversations/告诉我偏导数的符号在latex上怎么实现@20260316_190332.md",
+    "copilot/copilot-conversations/这节课的大纲是什么@20260214_162718.md",
+    "成长知识/项目反思/Ai+高中教育：不只是搜题！.md",
+    "课程学习笔记/普通物理/牛顿力学.md",
+    "copilot/memory/Recent Conversations.md",
+    "copilot/copilot-conversations/怎么理解速度-位移公式的使用前提，我的文字阐述有什么问@20260319_201940.md",
+    "copilot/memory",
+    "copilot/copilot-conversations/解释一下dict部分里面的代码@20260314_160557.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "课程学习笔记/普通物理",
+    "课程学习笔记/有机化学突击/命名.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "课程学习笔记/数学分析/集合.md",
+    "课程学习笔记/CS50/L2 Loop.md",
+    "课程学习笔记/物理化学",
+    "课程学习笔记/CS50/dict.md",
+    "课程学习笔记/CS50/L3 exception.md",
+    "课程学习笔记/CS50/L0 Functions, Variables.md",
+    "课程学习笔记/CS50/学习心得.md",
+    "copilot/copilot-conversations",
+    "attachments/Pasted image 20260208233725.png",
+    "attachments/Pasted image 20260208233711.png",
+    "attachments/Pasted image 20260208233656.png",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "课程学习笔记/CS50",
+    "attachments/Pasted image 20260126225952.png",
+    "课程学习笔记/李沐大模型",
+    "成长知识/项目反思",
+    "attachments/Pasted image 20260113145643.png",
+    "attachments/Pasted image 20260113140252.png",
+    "attachments/Pasted image 20260113135056.png",
+    "attachments/Pasted image 20260113131827.png",
+    "未命名.canvas"
+  ]
+}
